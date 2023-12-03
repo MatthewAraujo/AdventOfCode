@@ -1,2 +1,1 @@
 # AdventOfCode
-# AdventOfCode

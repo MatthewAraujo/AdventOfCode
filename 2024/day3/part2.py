@@ -15,7 +15,7 @@ for mul in nums:
     do = True
   elif mul == "dont'()":
     do = False
-  else:
+  else :
     if do:
       value = mul.split("(")[1].strip(")")  
       a, b = value.split(",")
